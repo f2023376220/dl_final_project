@@ -1,0 +1,1 @@
+MLOps pipeline for automated Pneumonia Detection using Deep Learning. The goal of this project is to create a robust production environment that serves chest X-ray predictions. For training verification, we utilized target configurations scaled to $128 \times 128 \times 3$ matrix inputs representing pulmonary structural variants.
